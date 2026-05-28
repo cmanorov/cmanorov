@@ -17,16 +17,16 @@
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-        <img src="https://img.shields.io/badge/Qbox-FF5F1F?style=for-the-badge&logo=codeforces&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ox_Lib-333333?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Javascript-FF5F1F?style=for-the-badge&logo=codeforces&logoColor=white" />
+        <img src="https://img.shields.io/badge/Standalone-333333?style=for-the-badge&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       </div>
       <br>
       <ul>
-        <li>Desenvolvimento de Scripts Standalone e Framework-based.</li>
+        <li>Desenvolvimento de Scripts Framework Standalone.</li>
         <li>Criação de NUI modernas com <b>React</b> e <b>Tailwind CSS</b>.</li>
         <li>Otimização de resourcers (foco em ms baixo e sync).</li>
-        <li>Arquitetura de banco de dados para servidores de grande porte.</li>
+        <li>Arquitetura de banco de dados para servidores grandes.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -40,7 +40,7 @@
       </div>
       <br>
       <ul>
-        <li>Identidade Visual e UI Design "Dark Tech".</li>
+        <li>Identidade Visual e UI Design.</li>
         <li>Desenvolvimento Web (React, Next.js, Node.js).</li>
         <li>Integração de Lojas e Dashboards Administrativos.</li>
         <li>Consultoria técnica para infraestrutura e cloud.</li>
