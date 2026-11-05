@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5F1F&size=30&center=true&vCenter=true&width=1000&lines=FiveM+Technical+Lead;Founder+of+Studio+Reborn;Lua+%26+NUI+Expert+(React/Tailwind);Software+Engineer+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5F1F&size=30&center=true&vCenter=true&width=1000&lines=FiveM+Technical+Lead;Founder+of+Vesper+Group;Lua+%26+NUI+Expert+(React/Tailwind);Software+Engineer+Full-Stack" alt="Typing SVG" />
 </div>
 
 <br>
@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 Studio Reborn</h3>
+      <h3 align="center">🏢 Vesper Group</h3>
       <p align="center">
         Minha agência de tecnologia focada em elevar o padrão visual e técnico de projetos digitais.
       </p>
