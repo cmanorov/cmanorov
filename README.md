@@ -64,7 +64,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/cmanorov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&borderColor=FF5F1F" /></a>
   <a href="https://www.instagram.com/cmanorov/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&borderColor=FF5F1F" /></a>
-  <a href="https://www.discord.gg/gVYqVcWcUV" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&borderColor=FF5F1F" /></a>
+  <a href="https://www.discord.gg/vespergroup" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&borderColor=FF5F1F" /></a>
   <a href="https://www.tiktok.com/@fpreborn" target="_blank"><img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white&borderColor=FF5F1F" /></a>
 </div>
 
